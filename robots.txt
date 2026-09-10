@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/vigorhorse-male-enhancement/sitemap.xml
+Sitemap: https://vigorhorse-male-enhancement.vercel.app/sitemap-vercel.xml
+Sitemap: https://vigorhorse-male-enhancement.pages.dev/sitemap-cloudflare.xml
